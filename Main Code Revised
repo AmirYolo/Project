@@ -1,5 +1,4 @@
-As of now, my code will render the tilemap and the background. It will also render the player and will show its walking animations depending on what you press for the keys. If you hit a spike tile, you will get teleported back to the starting point. But thats it, the rest of the tiles do not have any physics/ground. My player will walk through the blocks and basically is just floating the whole time. I tried several different tutorials on youtube and some online sources but I couldn't find one that made any sense or was applicable to my code. I am also fairly new to pygame so what do you guys think I can/should do to inocorporate some tile physics in my code?    
-   
+
 
     import pygame
     pygame.init()
